@@ -10,6 +10,13 @@ body {
     color: #5a5a5a;
 }
 
+h4 {
+    color: #000000;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial;
+}
+
 .color {
     background-image: linear-gradient(to right, #f86713, #f09328, #f87d36, #fe6b46, #fd7f48, #fd9109, #feac00);
 }
@@ -93,7 +100,7 @@ body {
 
 footer .redes-sociales {
     background-image: linear-gradient(to right, #c95e06, #dd820b, #f07401, #f07401, #f5a017, #e7d803, #f6bc1d, #e9a512, #f08b18, #dba42c);
-    padding: 70px 0;
+    padding: 15px 0;
 }
 
 footer .redes-sociales .contenedor {
