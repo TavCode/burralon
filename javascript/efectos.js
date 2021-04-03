@@ -1,9 +1,9 @@
-$(document).ready(function () {
+$(document).ready(function() {
     //Scroll elementos menú
     var redes = $("#redes").offset().top,
         evento = $("#evento").offset().top;
 
-    $("#btn-contacto").on("click", function(e){
+    $("#btn-contacto").on("click", function(e) {
         e.preventDefault();
         console.log("hola");
         $("html, body").animate({
@@ -11,7 +11,7 @@ $(document).ready(function () {
         }, 500)
     })
 
-    $("#btn-evento").on("click", function(e){
+    $("#btn-evento").on("click", function(e) {
         e.preventDefault();
         console.log("hola");
         $("html, body").animate({
