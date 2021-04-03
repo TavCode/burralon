@@ -10,11 +10,12 @@ body {
     color: #5a5a5a;
 }
 
-h4 {
-    color: #252424;
+h6 {
+    color: #3a3939;
     font-weight: normal;
-    font-size: 40px;
+    font-size: 20px;
     font-family: Arial;
+    size: 15;
 }
 
 .color {
